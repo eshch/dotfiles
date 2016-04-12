@@ -1,0 +1,8 @@
+[alias]
+	gr = log --graph --date-order --date=iso --pretty=format:\"%Cred%h%Creset %Cgreen%d%Creset %s %Cgreen%an%Creset %Cblue%ad%Creset\"
+	st = status
+	diffc = diff --cached
+	diffs = diff --stat
+
+[push]
+	default = simple
