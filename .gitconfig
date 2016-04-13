@@ -3,6 +3,7 @@
 	st = status
 	diffc = diff --cached
 	diffs = diff --stat
+	reseth = reset --hard
 
 [push]
 	default = simple
