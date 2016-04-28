@@ -4,6 +4,6 @@
 	diffc = diff --cached
 	diffs = diff --stat
 	reseth = reset --hard
-
+	grepn = grep -n
 [push]
 	default = simple
